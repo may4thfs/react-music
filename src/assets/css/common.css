@@ -19,7 +19,7 @@ button {
   margin: 0 auto;
 }
 
-/** sprite 精灵图类 **/
+/** sprite 精灵图类，预设0 9999px，以后使用时该类只需要覆盖它的position **/
 .sprite_01 {
   background: url(../img/sprite_01.png) no-repeat 0 9999px;
 }
