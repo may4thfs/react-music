@@ -40,6 +40,7 @@ li {
 
 button {
   outline: none;
+  border: none;
 }
 
 /* Change from `box-sizing: content-box` so that `width` is not affected by `padding` or `border` */
